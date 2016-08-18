@@ -54,7 +54,8 @@ h1{
 	font-family: "Courgette";
 	font-size: 100%;
 	text-align: center;
-	text-anchor: 20%;	
+	text-anchor: 20%;
+	font-weight: bold;	
 }
 .center{
 	text-align: center;
