@@ -51,7 +51,7 @@ ul{
 	list-style: none;
 }
 h1{
-	font-family: Courgette;
+	font-family: "Courgette";
 	font-size: 100%;
 	text-align: center;
 	text-anchor: 20%;	
@@ -63,7 +63,7 @@ p{
 	color: white;
 }
 h3,h4{
-	font-family: Courgette;
+	font-family: "Courgette";
 	color: #ffc27b;
 }
 .video{
